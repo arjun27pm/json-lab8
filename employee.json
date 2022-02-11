@@ -1,0 +1,10 @@
+{"records":[
+    {"id":1, "name":"Gerard", "gender": 1, "email": "stvgr@gmail.com", "p_type":"Shortterm", "phone":7584262324, "com_id":1, "com_name":"Activision","com_type":"private company"},
+    {"id":2, "name":"Gwen", "gender": 2, "email": "amz@yahoo.com", "p_type":"Long term", "phone":7584336824, "com_id":2, "com_name":"EA","com_type":"public company"},
+    {"id":3, "name":"stacy", "gender": 2, "email": "stc@yahoo.com", "p_type":"Longterm", "phone":7584383054, "com_id":3, "com_name":"ROCKSTAR","com_type":"Govt based company"},
+    {"id":4, "name":"Owen", "gender": 1, "email": "mchow@gmail.com", "p_type":"Shortterm", "phone":92786554824, "com_id":4, "com_name":"ALASKA","com_type":"public company"},
+    {"id":5, "name":"Drogba", "gender": 1, "email": "didier@hotmail.com", "p_type":"Longterm", "phone":7584336824, "com_id":5, "com_name":"UBISOFT","com_type":"Startups"},
+    {"id":6, "name":"Marry", "gender": 2, "email": "parkour@yahoo.com", "p_type":"Shortterm", "phone":7584225624, "com_id":6, "com_name":"ASGARD","com_type":"private mnc"},
+    {"id":7, "name":"Jane", "gender": 1, "email": "mj@yahoo.com", "p_type":"Shortterm", "phone":7584337824, "com_id":7, "com_name":"ROGUE","com_type":"startups"}
+    
+]}
